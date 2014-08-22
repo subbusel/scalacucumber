@@ -1,0 +1,187 @@
+2014-04-18 09:43:49,115 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2014-04-18 09:43:49,151 [     36]   INFO -        #com.intellij.idea.Main - IDE: IntelliJ IDEA (build #IU-135.480, 21 Mar 2014 00:00) 
+2014-04-18 09:43:49,151 [     36]   INFO -        #com.intellij.idea.Main - OS: Windows 7 (6.1, x86) 
+2014-04-18 09:43:49,151 [     36]   INFO -        #com.intellij.idea.Main - JRE: 1.7.0_40-b43 (Oracle Corporation) 
+2014-04-18 09:43:49,152 [     37]   INFO -        #com.intellij.idea.Main - JVM: 24.0-b56 (Java HotSpot(TM) Server VM) 
+2014-04-18 09:43:49,195 [     80]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx512m -XX:MaxPermSize=250m -XX:ReservedCodeCacheSize=64m -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+UseCodeCacheFlushing -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -Xbootclasspath/a:C:\Program Files (x86)\JetBrains\IntelliJ IDEA 13.1.1\lib\boot.jar -Didea.paths.selector=IntelliJIdea13 
+2014-04-18 09:43:49,635 [    520]   INFO -        #com.intellij.idea.Main - JNA library loaded (32-bit) in 438 ms 
+2014-04-18 09:43:49,926 [    811]   INFO -        #com.intellij.idea.Main - Snappy library loaded (1.0.5) in 260 ms 
+2014-04-18 09:43:50,096 [    981]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2014-04-18 09:43:50,099 [    984]   INFO -        #com.intellij.idea.Main - Using "FocusKiller" library to prevent focus stealing. 
+2014-04-18 09:44:22,207 [  33092]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor flex-ide-specific.xml 
+2014-04-18 09:44:25,789 [  36674]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor intellilang-tapestry-support.xml 
+2014-04-18 09:44:28,983 [  39868]   INFO -   #com.intellij.AbstractBundle - Cannot load resource bundle from *.properties file, falling back to slow class loading: com.intellij.javaee.cloudfoundry.CFBundle 
+2014-04-18 09:44:28,988 [  39873]   INFO - j.ide.plugins.PluginDescriptor - Cannot find plugin CloudFoundry resource-bundle: com.intellij.javaee.cloudfoundry.CFBundle 
+2014-04-18 09:49:11,354 [ 322239]   INFO -   #com.intellij.AbstractBundle - Cannot load resource bundle from *.properties file, falling back to slow class loading: messages.PropertiesBundle 
+2014-04-18 09:49:11,356 [ 322241]   INFO - j.ide.plugins.PluginDescriptor - Cannot find plugin com.intellij.java-i18n resource-bundle: messages.PropertiesBundle 
+2014-04-18 09:51:07,610 [ 438495]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor flex-ide-specific.xml 
+2014-04-18 09:51:10,330 [ 441215]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor intellilang-tapestry-support.xml 
+2014-04-18 09:51:13,616 [ 444501]   INFO - llij.ide.plugins.PluginManager - 125 plugins initialized in 7593 ms 
+2014-04-18 09:51:13,666 [ 444551]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: Android Designer, Android Support (10.0), Ant Support (1.0), CSS Support, Cucumber for Groovy (999.999), Cucumber for Java (999.999), Database Support (1.0), Eclipse Integration (3.0), Flash/Flex Support (1.0), Gherkin (999.999), Gradle, Groovy (9.0), GuiceyIDEA (8.0), HAML, HTML Tools (2.0), I18n for Java, IDEA CORE, IDEtalk (1.0), IntelliLang (8.0), J2ME (1.0), JUnit (1.0), Java EE: EJB, JPA, Servlets (1.0), Java EE: JMS, JSON Processing, Concurrency, Transaction  (1.0), Java EE: RESTful Web Services (JAX-RS) (1.0), Java EE: Web Services (JAX-WS) (1.9), Java Server Pages Integration (1.0), JavaScript Debugger (1.0), JavaScript Intention Power Pack (0.9.4), JavaScript Support (1.0), Maven Integration, Maven Integration Extension, Persistence Frameworks Support (1.0), Playframework Support (1.0), Properties Support, REST Client, SQL support (1.0), Spring AOP/@AspectJ (1.0), Spring Batch (1.0), Spring MVC Support (1.0), Spring Security (1.0), Spring Support (1.0), Spring Web Flow (1.0), Task Management (1.0), Terminal (0.1), TestNG-J (8.0), Time Tracking (1.0), Tomcat and TomEE Integration (1.0), W3C Validators (2.0), XPathView + XSLT Support (4) 
+2014-04-18 09:51:13,667 [ 444552]   INFO - llij.ide.plugins.PluginManager - Disabled plugins: ASP (0.1), Application Servers View (0.2.0), AspectJ Support (1.1), Byte Code Viewer (0.1), CFML Support (3.53), CVS Integration (11), ClearCase Integration (2.0), Cloud Foundry integration (1.0), CloudBees integration (1.0), CoffeeScript (2.0), Commander (1.0.0), Copyright (8.1), Coverage, DSM Analysis (1.0.0), Emma, FreeMarker support (1.0), GWT Support (1.0), Geronimo Integration (1.0), Git Integration (8.1), GitHub, GlassFish Integration (1.0), Google App Engine Integration (1.1.4), Grails (9.0), Heroku integration (1.0), Hibernate Support (1.0), JBoss Drools Support (1.0), JBoss Integration (1.0), JBoss Seam Pageflow Support (1.0), JBoss Seam Pages Support (1.0), JBoss Seam Support (1.0), JBoss jBPM (2.0.0), JSR45 Integration (1.0), Java EE: Batch Applications (1.0), Java EE: Bean Validation Support (1.1), Java EE: Contexts and Dependency Injection (1.1), Java EE: Java Server Faces (2.2.X.), Java EE: WebSockets (1.0), JavaFX (1.0), Jetty Integration (1.0), LESS support, OpenShift integration (1.0), Osmorc (1.4.4), Perforce Integration (2.0), Plugin DevKit (1.0), QuirksMode, Refactor-X (2.01), Remote Hosts Access (0.1), Resin Integration (8.1), SASS support, SSH Remote Run (0.1), Spring Data (1.0), Spring Integration Patterns (1.0), Spring OSGi (1.0), Spring Roo Console (1.0), Spring Web Services (1.0), Spy-js (999.999), Structural Search (9.0), Struts 1.x (2.0), Struts 2 (1.0), Stylus support (999.999), Subversion Integration (1.1), TFS Integration (999.999), Tapestry support (1.0), Type Migration, UI Designer, UML Support (1.0), Vaadin Support (1.0), Velocity support (1.0), Visual SourceSafe Integration (2.0), WebLogic Integration (1.0), WebSphere Integration (1.0), XSLT-Debugger (1.4), YAML, ZKM-Unscramble (1.0), dmServer Support (0.9.5), hg4idea (10.0) 
+2014-04-18 09:51:19,001 [ 449886]   INFO - ellij.vfs.persistent.FSRecords - Marking VFS as corrupted 
+2014-04-18 09:51:19,024 [ 449909]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=200; buffer=10; max=498008064 
+2014-04-18 09:51:19,325 [ 450210]   INFO - api.vfs.impl.local.FileWatcher - Starting file watcher: C:\Program Files (x86)\JetBrains\IntelliJ IDEA 13.1.1\bin\fsnotifier.exe 
+2014-04-18 09:51:19,436 [ 450321]   INFO - api.vfs.impl.local.FileWatcher - Native file watcher is operational. 
+2014-04-18 09:51:20,164 [ 451049]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/other.xml file is null 
+2014-04-18 09:51:20,244 [ 451129]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/project.default.xml file is null 
+2014-04-18 09:51:20,729 [ 451614]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/filetypes.xml file is null 
+2014-04-18 09:51:26,773 [ 457658]   INFO - .history.utils.LocalHistoryLog - local history version mismatch (was: 0, expected: 5), rebuilding... 
+2014-04-18 09:51:26,774 [ 457659]   INFO - .history.utils.LocalHistoryLog - FS has been rebuild, rebuilding local history... 
+2014-04-18 09:51:26,960 [ 457845]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/path.macros.xml file is null 
+2014-04-18 09:51:26,966 [ 457851]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/ui.lnf.xml file is null 
+2014-04-18 09:51:26,974 [ 457859]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/options.xml file is null 
+2014-04-18 09:51:27,216 [ 458101]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/notifications.xml file is null 
+2014-04-18 09:51:27,253 [ 458138]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/usage.statistics.xml file is null 
+2014-04-18 09:51:27,260 [ 458145]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/statistics.application.usages.xml file is null 
+2014-04-18 09:51:28,323 [ 459208]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/keymap.xml file is null 
+2014-04-18 09:51:29,345 [ 460230]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/window.manager.xml file is null 
+2014-04-18 09:51:29,458 [ 460343]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/abbreviations.xml file is null 
+2014-04-18 09:51:29,633 [ 460518]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/ide.general.xml file is null 
+2014-04-18 09:51:43,342 [ 474227]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/stubIndex.xml file is null 
+2014-04-18 09:51:43,586 [ 474471]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/editor.xml file is null 
+2014-04-18 09:51:43,595 [ 474480]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/macros.xml file is null 
+2014-04-18 09:51:43,607 [ 474492]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/quicklists.xml file is null 
+2014-04-18 09:51:44,528 [ 475413]   INFO - tellij.xml.Html5SchemaProvider - HTML5_SCHEMA_LOCATION = C:/Program Files (x86)/JetBrains/IntelliJ IDEA 13.1.1/lib/idea.jar!/resources/html5-schema/html5.rnc 
+2014-04-18 09:51:44,528 [ 475413]   INFO - tellij.xml.Html5SchemaProvider - XHTML5_SCHEMA_LOCATION = C:/Program Files (x86)/JetBrains/IntelliJ IDEA 13.1.1/lib/idea.jar!/resources/html5-schema/xhtml5.rnc 
+2014-04-18 09:51:44,528 [ 475413]   INFO - tellij.xml.Html5SchemaProvider - CHARS_DTD_LOCATION = C:/Program Files (x86)/JetBrains/IntelliJ IDEA 13.1.1/lib/idea.jar!/resources/html5-schema/html5chars.ent 
+2014-04-18 09:51:47,497 [ 478382]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/colors.scheme.xml file is null 
+2014-04-18 09:51:47,608 [ 478493]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/editor.codeinsight.xml file is null 
+2014-04-18 09:51:48,902 [ 479787]   INFO -                  TestNG Runner - Create TestNG Template Configuration 
+2014-04-18 09:51:49,218 [ 480103]   INFO - ellij.project.impl.ProjectImpl - 20 project components initialized in 4588 ms 
+2014-04-18 09:51:49,221 [ 480106]   INFO - le.impl.ModuleManagerComponent - 0 module(s) loaded in 0 ms 
+2014-04-18 09:51:49,880 [ 480765]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/encoding.xml file is null 
+2014-04-18 09:51:50,245 [ 481130]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/androidRemoteDatabases.xml file is null 
+2014-04-18 09:51:50,361 [ 481246]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/terminal.xml file is null 
+2014-04-18 09:51:50,401 [ 481286]   INFO - pl.stores.ApplicationStoreImpl - 96 application components initialized in 36443 ms 
+2014-04-18 09:51:50,494 [ 481379]   INFO - .intellij.idea.IdeaApplication - App initialization took 498842 ms 
+2014-04-18 09:51:51,502 [ 482387]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/plugin_ui.xml file is null 
+2014-04-18 09:52:03,259 [ 494144]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/jdk.table.xml file is null 
+2014-04-18 09:52:35,119 [ 526004]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/applicationLibraries.xml file is null 
+2014-04-18 09:52:40,887 [ 531772]   INFO - ellij.concurrency.JobScheduler - 50 ms execution limit failed for: com.intellij.openapi.progress.impl.ProgressManagerImpl$1@502bb2; elapsed time was 83ms 
+2014-04-18 09:55:23,917 [ 694802]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $WORKSPACE_FILE$ file is null 
+2014-04-18 09:55:24,002 [ 694887]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/encodings.xml file is null 
+2014-04-18 09:55:24,070 [ 694955]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/modules.xml file is null 
+2014-04-18 09:55:24,344 [ 695229]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/vcs.xml file is null 
+2014-04-18 09:55:25,011 [ 695896]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/compiler.xml file is null 
+2014-04-18 09:55:25,089 [ 695974]   INFO -                  TestNG Runner - Create TestNG Template Configuration 
+2014-04-18 09:55:25,093 [ 695978]   INFO -                  TestNG Runner - Create TestNG Template Configuration 
+2014-04-18 09:55:27,188 [ 698073]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/dynamic.xml file is null 
+2014-04-18 09:55:29,305 [ 700190]   INFO - ellij.project.impl.ProjectImpl - 155 project components initialized in 7627 ms 
+2014-04-18 09:55:29,306 [ 700191]   INFO - le.impl.ModuleManagerComponent - 0 module(s) loaded in 0 ms 
+2014-04-18 09:55:29,853 [ 700738]   INFO - i.vcs.changes.ChangeListWorker - default list not found when copy 
+2014-04-18 09:55:29,853 [ 700738]   INFO - i.vcs.changes.ChangeListWorker - default list not found when copy in original object too 
+2014-04-18 09:55:30,858 [ 701743]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $MODULE_FILE$ file is null 
+2014-04-18 09:55:31,303 [ 702188]   INFO - rkSupport.FrameworkSupportUtil - Cannot find framework support provider 'facet:jsf' 
+2014-04-18 09:55:33,796 [ 704681]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/file.template.settings.xml file is null 
+2014-04-18 09:55:35,687 [ 706572]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/customization.xml file is null 
+2014-04-18 09:55:39,891 [ 710776]   INFO - CompilerWorkspaceConfiguration - Available processors: 4 
+2014-04-18 09:55:40,124 [ 711009]   INFO - .roots.impl.DirectoryIndexImpl - Directory index initialized in 0 ms, indexed 0 directories 
+2014-04-18 09:55:40,543 [ 711428]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/sqldialects.xml file is null 
+2014-04-18 09:55:40,888 [ 711773]   INFO - pl.PushedFilePropertiesUpdater - File properties pushed in 588 ms 
+2014-04-18 09:55:42,550 [ 713435]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2014-04-18 09:55:42,552 [ 713437]   INFO - unicator.p2p.UserMonitorThread - Force finding users 
+2014-04-18 09:55:42,564 [ 713449]   INFO - unicator.p2p.UserMonitorThread - Start User Monitor Thread 
+2014-04-18 09:55:42,599 [ 713484]   INFO - icator.p2p.MulticastPingThread - /192.168.0.9 IDEtalk Multicast Thread: Start thread. 
+2014-04-18 09:55:44,585 [ 715470]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/gradle.xml file is null 
+2014-04-18 09:55:52,168 [ 723053]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/code.style.schemes.xml file is null 
+2014-04-18 09:55:55,560 [ 726445]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/gant_config.xml file is null 
+2014-04-18 09:55:56,015 [ 726900]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 34720 ms 
+2014-04-18 09:56:36,861 [ 767746]   INFO - indexing.UnindexedFilesUpdater - Indexable files iterated in 55415 ms 
+2014-04-18 09:56:36,862 [ 767747]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 39801 files to update 
+2014-04-18 09:56:56,158 [ 787043]   INFO - ework.TestFileStructureManager - JsTestDriver: Creating TestFileStructurePack for DOMXPath.js took 116.28 ms 
+2014-04-18 09:57:14,373 [ 805258]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/fileColors.xml file is null 
+2014-04-18 09:57:44,701 [ 835586]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/web-browsers.xml file is null 
+2014-04-18 09:58:00,355 [ 851240]   INFO - ellij.concurrency.JobScheduler - 50 ms execution limit failed for: com.intellij.openapi.progress.impl.ProgressManagerImpl$1@502bb2; elapsed time was 64ms 
+2014-04-18 09:58:04,107 [ 854992]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/ant.xml file is null 
+2014-04-18 09:58:15,944 [ 866829]   INFO - ellij.concurrency.JobScheduler - 50 ms execution limit failed for: com.intellij.openapi.progress.impl.ProgressManagerImpl$1@502bb2; elapsed time was 59ms 
+2014-04-18 09:58:48,863 [ 899748]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update done in 132001 ms 
+2014-04-18 09:58:49,721 [ 900606]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/codeStyleSettings.xml file is null 
+2014-04-18 09:58:49,725 [ 900610]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/projectCodeStyle.xml file is null 
+2014-04-18 09:58:52,968 [ 903853]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/feature.usage.statistics.xml file is null 
+2014-04-18 09:58:53,004 [ 903889]   INFO - unicator.p2p.UserMonitorThread - Force finding users 
+2014-04-18 09:58:58,020 [ 908905]   INFO - or.jabber.impl.JabberTransport - Jabber connected 
+2014-04-18 09:59:29,742 [ 940627]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/remote-servers.xml file is null 
+2014-04-18 10:00:44,886 [1015771]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/IntelliLang.xml file is null 
+2014-04-18 10:00:44,897 [1015782]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/IntelliLang.xml file is null 
+2014-04-18 10:00:50,789 [1021674]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/emmet.xml file is null 
+2014-04-18 10:00:50,795 [1021680]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/postfixTemplates.xml file is null 
+2014-04-18 10:00:53,548 [1024433]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/intentionSettings.xml file is null 
+2014-04-18 10:01:22,489 [1053374]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/cachedDictionary.xml file is null 
+2014-04-18 10:29:48,652 [2759537]  ERROR - llij.ide.plugins.PluginManager - Argument 3 for @NotNull parameter of com/intellij/openapi/roots/ui/configuration/libraryEditor/CreateNewLibraryAction.createLibrary must not be null 
+java.lang.IllegalArgumentException: Argument 3 for @NotNull parameter of com/intellij/openapi/roots/ui/configuration/libraryEditor/CreateNewLibraryAction.createLibrary must not be null
+	at com.intellij.openapi.roots.ui.configuration.libraryEditor.CreateNewLibraryAction.createLibrary(CreateNewLibraryAction.java)
+	at com.intellij.openapi.roots.ui.configuration.libraryEditor.CreateNewLibraryAction.actionPerformed(CreateNewLibraryAction.java:66)
+	at com.intellij.ui.popup.PopupFactoryImpl$ActionPopupStep$1.run(PopupFactoryImpl.java:733)
+	at com.intellij.ui.popup.AbstractPopup$18.run(AbstractPopup.java:1250)
+	at com.intellij.openapi.wm.impl.FocusManagerImpl.a(FocusManagerImpl.java:648)
+	at com.intellij.openapi.wm.impl.FocusManagerImpl.g(FocusManagerImpl.java:629)
+	at com.intellij.openapi.wm.impl.FocusManagerImpl.e(FocusManagerImpl.java:599)
+	at com.intellij.openapi.wm.impl.FocusManagerImpl.access$200(FocusManagerImpl.java:60)
+	at com.intellij.openapi.wm.impl.FocusManagerImpl$IdleRunnable.runEdt(FocusManagerImpl.java:108)
+	at com.intellij.openapi.util.EdtRunnable$1.run(EdtRunnable.java:28)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:251)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:733)
+	at java.awt.EventQueue.access$200(EventQueue.java:103)
+	at java.awt.EventQueue$3.run(EventQueue.java:694)
+	at java.awt.EventQueue$3.run(EventQueue.java:692)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:703)
+	at com.intellij.ide.IdeEventQueue.e(IdeEventQueue.java:697)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:524)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:335)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:242)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:161)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:150)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:146)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:138)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91)
+2014-04-18 10:29:48,697 [2759582]  ERROR - llij.ide.plugins.PluginManager - IntelliJ IDEA 13.1.1  Build #IU-135.480 
+2014-04-18 10:29:48,698 [2759583]  ERROR - llij.ide.plugins.PluginManager - JDK: 1.7.0_40 
+2014-04-18 10:29:48,699 [2759584]  ERROR - llij.ide.plugins.PluginManager - VM: Java HotSpot(TM) Server VM 
+2014-04-18 10:29:48,699 [2759584]  ERROR - llij.ide.plugins.PluginManager - Vendor: Oracle Corporation 
+2014-04-18 10:29:48,700 [2759585]  ERROR - llij.ide.plugins.PluginManager - OS: Windows 7 
+2014-04-18 10:29:48,700 [2759585]  ERROR - llij.ide.plugins.PluginManager - Last Action: ShowProjectStructureSettings 
+2014-04-18 10:35:59,394 [3130279]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/dataSources.xml file is null 
+2014-04-18 10:35:59,419 [3130304]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/dataSources.xml file is null 
+2014-04-18 10:35:59,510 [3130395]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/sqlDataSources.xml file is null 
+2014-04-18 10:36:12,782 [3143667]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/debugger.renderers.xml file is null 
+2014-04-18 10:37:14,425 [3205310]   INFO - api.vfs.impl.local.FileWatcher - Change requests:16384, filtered:8058 
+2014-04-18 10:43:25,821 [3576706]   INFO - om.intellij.util.ProfilingUtil - Profiling agent is not enabled. Add -agentlib:yjpagent to idea.vmoptions if necessary to profile IDEA. 
+2014-04-18 10:44:08,963 [3619848]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2014-04-18 10:44:17,133 [3628018]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /C:/Program Files (x86)/JetBrains/IntelliJ IDEA 13.1.1/lib/jps-launcher.jar;C:/Program Files/java/jdk1.7.0_51/lib/tools.jar;/C:/Program Files (x86)/JetBrains/IntelliJ IDEA 13.1.1/lib/optimizedFileManager.jar;/C:/Program Files (x86)/JetBrains/IntelliJ IDEA 13.1.1/lib/ecj-4.3.2.jar 
+2014-04-18 10:44:36,927 [3647812]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/validation.xml file is null 
+2014-04-18 10:44:37,139 [3648024]   INFO - .GenericCompilerPersistentData - Compiler info file doesn't exists: C:\Users\subbu\.IntelliJIdea13\system\compiler\seleniumproject.eaccb992\.caches\jasper_validator\info 
+2014-04-18 10:44:37,140 [3648025]   INFO - ler.impl.GenericCompilerRunner - Clearing cache for Jasper Validator 
+2014-04-18 10:44:41,399 [3652284]   INFO - indexing.UnindexedFilesUpdater - Indexable files iterated in 3388 ms 
+2014-04-18 10:44:41,399 [3652284]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 0 files to update 
+2014-04-18 10:44:41,399 [3652284]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update done in 0 ms 
+2014-04-18 10:44:41,615 [3652500]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 1; warnings: 0 took 28959 ms: 0 min 28sec 
+2014-04-18 10:45:04,637 [3675522]   INFO - ex.GlobalInspectionContextImpl - Code inspection started 
+2014-04-18 10:45:07,864 [3678749]   INFO - nspection.reference.RefManager - Total duration of processing project usages:144 
+2014-04-18 10:45:21,491 [3692376]   INFO - ex.GlobalInspectionContextImpl - Code inspection finished 
+2014-04-18 10:57:36,107 [4426992]   INFO - indexing.UnindexedFilesUpdater - Indexable files iterated in 164 ms 
+2014-04-18 10:57:36,107 [4426992]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 543 files to update 
+2014-04-18 10:57:49,041 [4439926]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update done in 12934 ms 
+2014-04-18 10:58:43,448 [4494333]   INFO - indexing.UnindexedFilesUpdater - Indexable files iterated in 51 ms 
+2014-04-18 10:58:43,448 [4494333]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 0 files to update 
+2014-04-18 10:58:43,449 [4494334]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update done in 0 ms 
+2014-04-18 10:58:44,098 [4494983]   INFO - indexing.UnindexedFilesUpdater - Indexable files iterated in 89 ms 
+2014-04-18 10:58:44,098 [4494983]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 0 files to update 
+2014-04-18 10:58:44,099 [4494984]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update done in 1 ms 
+2014-04-18 11:00:21,463 [4592348]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/jsLibraryMappings.xml file is null 
+2014-04-18 11:00:21,677 [4592562]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/databaseColors.xml file is null 
+2014-04-18 11:00:22,823 [4593708]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2014-04-18 11:00:23,084 [4593969]   INFO - ins.android.sdk.AndroidSdkData - DDMLib terminated 
+2014-04-18 11:00:23,100 [4593985]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2014-04-18 11:00:23,258 [4594143]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2014-04-18 11:00:23,258 [4594143]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2014-04-18 11:00:23,260 [4594145]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2014-04-18 11:00:23,263 [4594148]   INFO - .history.utils.LocalHistoryLog - Purging local history... 
+2014-04-18 11:00:23,268 [4594153]   INFO - .history.utils.LocalHistoryLog - Local history storage successfully closed. 
+2014-04-18 11:00:23,280 [4594165]   WARN - api.vfs.impl.local.FileWatcher - Watcher terminated with exit code 0 
+2014-04-18 11:00:23,283 [4594168]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2014-04-18 11:00:23,310 [4594195]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2014-04-18 11:00:23,347 [4594232]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2014-04-18 11:00:23,470 [4594355]   WARN - netty.channel.nio.NioEventLoop - Selector.select() returned prematurely 512 times in a row; rebuilding selector. 

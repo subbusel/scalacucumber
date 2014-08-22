@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="libraries">
+      <project id="SeleniumProject" values="spring" />
+    </group>
+    <group name="language-level">
+      <project id="SeleniumProject" values="JDK_1_6" />
+    </group>
+    <group name="frameworks">
+      <project id="SeleniumProject" values="javaeeApplication,Spring" />
+    </group>
+    <group name="spring">
+      <project id="SeleniumProject" values="facet_xmlContext" />
+    </group>
+    <group name="module type">
+      <project id="SeleniumProject" values="JAVA_MODULE" />
+    </group>
+    <group name="file-type">
+      <project id="SeleniumProject" values="UNKNOWN,ARCHIVE,XML,JAVA,IDEA_MODULE" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="SeleniumProject" values="DEFAULT" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="SeleniumProject" values="Project,Project" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="tips.of.the.day.next" count="1" />
+    </counts>
+  </component>
+</application>
+

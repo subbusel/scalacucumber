@@ -1,0 +1,9 @@
+2014-04-18 10:44:21,401 [      0]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/subbu/IdeaProjects/SeleniumProject, global options path = C:/Users/subbu/.IntelliJIdea13/config/options 
+2014-04-18 10:44:25,389 [   3988]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 3993 ms 
+2014-04-18 10:44:25,390 [   3989]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 1 libraries 
+2014-04-18 10:44:26,289 [   4888]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=200; buffer=10; max=631767040 
+2014-04-18 10:44:26,602 [   5201]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2014-04-18 10:44:28,690 [   7289]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:true; isMake:false parallel compilation:false 
+2014-04-18 10:44:28,712 [   7311]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled 
+2014-04-18 10:44:30,200 [   8799]   INFO - s.incremental.java.JavaBuilder - Using javac 1.7.0_51 to compile java sources 
+2014-04-18 10:44:30,223 [   8822]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: SeleniumProject 

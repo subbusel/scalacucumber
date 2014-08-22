@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="language-level">
+      <project id="DVLAP" values="JDK_1_7" />
+      <project id="Q" values="JDK_1_6" />
+      <project id="A" values="JDK_1_6" />
+      <project id="Myf" values="JDK_1_6" />
+      <project id="scala-cucumber-webdriver-example" values="JDK_1_7" />
+      <project id="Cucumber" values="JDK_1_7" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="DVLAP" values="Application" />
+    </group>
+    <group name="module type">
+      <project id="DVLAP" values="SBT_MODULE,JAVA_MODULE" />
+      <project id="Q" values="JAVA_MODULE" />
+      <project id="A" values="JAVA_MODULE" />
+      <project id="Myf" values="JAVA_MODULE" />
+      <project id="scala-cucumber-webdriver-example" values="SBT_MODULE,JAVA_MODULE" />
+      <project id="Cucumber" values="JAVA_MODULE,SBT_MODULE" />
+    </group>
+    <group name="vcs">
+      <project id="scala-cucumber-webdriver-example" values="Git" />
+    </group>
+    <group name="frameworks">
+      <project id="DVLAP" values="scala" />
+      <project id="scala-cucumber-webdriver-example" values="scala" />
+      <project id="Cucumber" values="scala" />
+    </group>
+    <group name="Scala">
+      <project id="DVLAP" values="Library  JUnit for Scala,Scala  2.10.4,Library  ScalaTest" />
+      <project id="scala-cucumber-webdriver-example" values="Library  ScalaTest,Library  JUnit for Scala,Scala  2.10.4" />
+      <project id="Cucumber" values="Scala  2.10.4" />
+    </group>
+    <group name="file-type">
+      <project id="DVLAP" values="XML,CSS files (syntax highlighting only),SBT,UNKNOWN,IDEA_MODULE,Properties" />
+      <project id="Q" values="SBT,UNKNOWN,IDEA_MODULE,XML" />
+      <project id="A" values="IDEA_MODULE,SBT,XML,UNKNOWN" />
+      <project id="Myf" values="UNKNOWN,XML,IDEA_MODULE,SBT" />
+      <project id="scala-cucumber-webdriver-example" values="SBT,Scala,Cucumber,XML,UNKNOWN,IDEA_MODULE" />
+      <project id="Cucumber" values="SBT,XML,UNKNOWN,IDEA_MODULE" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="scala-cucumber-webdriver-example" values="JUnit" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="execute.JUnit.Run" count="8" />
+      <entry feature="ideaapp.started" count="10" />
+      <entry feature="scala.compilation.incremental.by.idea" count="8" />
+      <entry feature="scala.compilation.with.server" count="8" />
+      <entry feature="scala.file.with.type.aware.annotated" count="576" />
+      <entry feature="tips.of.the.day.next" count="1" />
+    </counts>
+  </component>
+</application>
+

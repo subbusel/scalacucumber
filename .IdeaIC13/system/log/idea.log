@@ -1,0 +1,311 @@
+2014-08-21 22:47:36,542 [ 876829]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/emmet.xml file is null 
+2014-08-21 22:47:36,542 [ 876829]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/postfixTemplates.xml file is null 
+2014-08-21 22:48:39,594 [ 939881]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2014-08-21 22:48:39,736 [ 940023]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/uiDesigner.xml file is null 
+2014-08-21 22:48:40,200 [ 940487]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/ant.xml file is null 
+2014-08-21 22:48:45,983 [ 946270]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /C:/Program Files (x86)/JetBrains/IntelliJ IDEA Community Edition 13.1.4/lib/jps-launcher.jar;C:/Program Files/java/jdk1.7.0_51/lib/tools.jar;/C:/Program Files (x86)/JetBrains/IntelliJ IDEA Community Edition 13.1.4/lib/optimizedFileManager.jar;/C:/Program Files (x86)/JetBrains/IntelliJ IDEA Community Edition 13.1.4/lib/ecj-4.3.2.jar 
+2014-08-21 22:49:46,383 [1006670]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 27; warnings: 0 took 66755 ms: 1 min 6sec 
+2014-08-22 01:21:25,938 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2014-08-22 01:21:26,578 [    640]   INFO -        #com.intellij.idea.Main - IDE: IntelliJ IDEA (build #IC-135.1230, 21 Jul 2014 00:00) 
+2014-08-22 01:21:26,579 [    641]   INFO -        #com.intellij.idea.Main - OS: Windows 7 (6.1, x86) 
+2014-08-22 01:21:26,579 [    641]   INFO -        #com.intellij.idea.Main - JRE: 1.7.0_60-b19 (Oracle Corporation) 
+2014-08-22 01:21:26,579 [    641]   INFO -        #com.intellij.idea.Main - JVM: 24.60-b09 (Java HotSpot(TM) Server VM) 
+2014-08-22 01:21:26,625 [    687]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx512m -XX:MaxPermSize=250m -XX:ReservedCodeCacheSize=64m -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -Djsse.enableSNIExtension=false -XX:+UseCodeCacheFlushing -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -Xbootclasspath/a:C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 13.1.4\lib\boot.jar -Didea.paths.selector=IdeaIC13 
+2014-08-22 01:21:28,996 [   3058]   INFO -        #com.intellij.idea.Main - JNA library loaded (32-bit) in 2370 ms 
+2014-08-22 01:21:30,027 [   4089]   INFO -        #com.intellij.idea.Main - Snappy library loaded (1.0.5) in 995 ms 
+2014-08-22 01:21:30,036 [   4098]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2014-08-22 01:21:30,039 [   4101]   INFO -        #com.intellij.idea.Main - Using "FocusKiller" library to prevent focus stealing. 
+2014-08-22 01:21:37,700 [  11762]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor intellilang-python-support.xml 
+2014-08-22 01:21:42,854 [  16916]   INFO - llij.ide.plugins.PluginManager - 31 plugins initialized in 8939 ms 
+2014-08-22 01:21:42,885 [  16947]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: Android Support (10.0), Ant Support (1.0), Byte Code Viewer (0.1), CVS Integration (11), Commander (1.0.0), Copyright (8.1), Eclipse Integration (3.0), Git Integration (8.1), GitHub, Gradle, Groovy (9.0), I18n for Java, IDEA CORE, IntelliLang (8.0), JUnit (1.0), JavaFX (1.0), Maven Integration, Plugin DevKit (1.0), Properties Support, Subversion Integration (1.1), Task Management (1.0), Terminal (0.1), TestNG-J (8.0), UI Designer, XPathView + XSLT Support (4), XSLT-Debugger (1.4), hg4idea (10.0) 
+2014-08-22 01:21:42,886 [  16948]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: Cucumber for Scala (0.1), Gherkin (134.1007), SBT (1.6.1), Scala (0.41.1) 
+2014-08-22 01:21:50,134 [  24196]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=200; buffer=10; max=498008064 
+2014-08-22 01:21:51,359 [  25421]   INFO - api.vfs.impl.local.FileWatcher - Starting file watcher: C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 13.1.4\bin\fsnotifier.exe 
+2014-08-22 01:21:51,489 [  25551]   INFO - api.vfs.impl.local.FileWatcher - Native file watcher is operational. 
+2014-08-22 01:21:58,177 [  32239]   INFO - lij.diagnostic.DebugLogManager - Set DEBUG for the following categories: [] 
+2014-08-22 01:22:14,548 [  48610]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/macros.xml file is null 
+2014-08-22 01:22:14,596 [  48658]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/quicklists.xml file is null 
+2014-08-22 01:22:16,809 [  50871]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/scala_config.xml file is null 
+2014-08-22 01:22:16,836 [  50898]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/scala_sbt.xml file is null 
+2014-08-22 01:22:19,136 [  53198]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/terminal.xml file is null 
+2014-08-22 01:22:19,142 [  53204]   INFO - pl.stores.ApplicationStoreImpl - 94 application components initialized in 35761 ms 
+2014-08-22 01:22:19,292 [  53354]   INFO - .intellij.idea.IdeaApplication - App initialization took 60961 ms 
+2014-08-22 01:22:20,183 [  54245]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/customization.xml file is null 
+2014-08-22 01:22:26,615 [  60677]   INFO - ellij.concurrency.JobScheduler - 50 ms execution limit failed for: com.intellij.openapi.progress.impl.ProgressManagerImpl$1@c042d9; elapsed time was 104ms 
+2014-08-22 01:22:34,469 [  68531]   INFO -                  TestNG Runner - Create TestNG Template Configuration 
+2014-08-22 01:22:34,786 [  68848]   INFO -                  TestNG Runner - Create TestNG Template Configuration 
+2014-08-22 01:22:35,652 [  69714]   INFO - ellij.concurrency.JobScheduler - 50 ms execution limit failed for: com.intellij.openapi.progress.impl.ProgressManagerImpl$1@c042d9; elapsed time was 70ms 
+2014-08-22 01:22:36,277 [  70339]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/dynamic.xml file is null 
+2014-08-22 01:22:38,988 [  73050]   INFO - ellij.project.impl.ProjectImpl - 164 project components initialized in 15069 ms 
+2014-08-22 01:22:40,521 [  74583]   INFO - le.impl.ModuleManagerComponent - 2 module(s) loaded in 1532 ms 
+2014-08-22 01:22:43,686 [  77748]   INFO - CompilerWorkspaceConfiguration - Available processors: 4 
+2014-08-22 01:22:43,700 [  77762]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/scala_compiler.xml file is null 
+2014-08-22 01:22:44,029 [  78091]   INFO - dea.sdk.CheckAndroidSdkUpdates - Android SDK Data == null 
+2014-08-22 01:22:44,710 [  78772]   INFO - .roots.impl.DirectoryIndexImpl - Directory index initialized in 1 ms, indexed 0 directories 
+2014-08-22 01:22:44,828 [  78890]   INFO - pl.PushedFilePropertiesUpdater - File properties pushed in 92 ms 
+2014-08-22 01:22:48,703 [  82765]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2014-08-22 01:22:51,882 [  85944]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/codeStyleSettings.xml file is null 
+2014-08-22 01:22:51,914 [  85976]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/projectCodeStyle.xml file is null 
+2014-08-22 01:22:53,494 [  87556]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/fileColors.xml file is null 
+2014-08-22 01:22:58,420 [  92482]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/gradle.xml file is null 
+2014-08-22 01:22:58,460 [  92522]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix jar:file:/C:/Users/subbu/.IdeaIC13/config/plugins/Scala/lib/scala-plugin.jar!/sbt.png 
+2014-08-22 01:22:58,530 [  92592]   INFO - indexing.UnindexedFilesUpdater - Indexable files iterated in 13349 ms 
+2014-08-22 01:22:58,531 [  92593]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 0 files to update 
+2014-08-22 01:22:58,532 [  92594]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update done in 1 ms 
+2014-08-22 01:23:01,675 [  95737]   INFO - ution.rmi.RemoteProcessSupport - "C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 13.1.4\jre\jre\bin\java" -Djava.awt.headless=true -Dsun.rmi.transport.connectionTimeout=3600000 -Dexternal.system.id=SBT -Dfile.encoding=windows-1252 -classpath "/C:/Program Files (x86)/JetBrains/IntelliJ IDEA Community Edition 13.1.4/lib/idea.jar;/C:/Program Files (x86)/JetBrains/IntelliJ IDEA Community Edition 13.1.4/lib/resources_en.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 13.1.4\lib\annotations.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 13.1.4\lib\log4j.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 13.1.4\lib\jna-utils.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 13.1.4\lib\oromatcher.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 13.1.4\lib\jna.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 13.1.4\lib\util.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 13.1.4\lib\picocontainer.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 13.1.4\lib\trove4j.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 13.1.4\lib\jdom.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 13.1.4\lib\resources_en.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 13.1.4\lib\openapi.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 13.1.4\lib\idea.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 13.1.4\lib\extensions.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 13.1.4\jre\jre\lib\rt.jar;C:\Users\subbu\.IdeaIC13\config\plugins\Scala\lib\scala-plugin.jar;C:\Users\subbu\.IdeaIC13\config\plugins\Scala\lib\scala-library.jar;C:\Users\subbu\.IdeaIC13\config\plugins\Scala\lib\scala-xml_2.11-1.0.2.jar" com.intellij.openapi.externalSystem.service.RemoteExternalSystemFacadeImpl org.jetbrains.sbt.project.SbtProjectResolver org.jetbrains.sbt.project.SbtTaskManager 
+2014-08-22 01:23:01,922 [  95984]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/scala_settings.xml file is null 
+2014-08-22 01:23:03,188 [  97250]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/gant_config.xml file is null 
+2014-08-22 01:23:04,452 [  98514]   INFO - ution.rmi.RemoteProcessSupport - Port/ID: 10591/RemoteExternalSystemFacadeImplbb9b482 
+2014-08-22 01:23:15,859 [ 109921]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/scala_folding_settings.xml file is null 
+2014-08-22 01:23:23,087 [ 117149]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/IntelliLang.xml file is null 
+2014-08-22 01:23:23,166 [ 117228]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/remote-servers.xml file is null 
+2014-08-22 01:23:24,674 [ 118736]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 61144 ms 
+2014-08-22 01:23:28,286 [ 122348]   INFO - ellij.concurrency.JobScheduler - 50 ms execution limit failed for: com.intellij.openapi.progress.impl.ProgressManagerImpl$1@c042d9; elapsed time was 93ms 
+2014-08-22 01:23:45,594 [ 139656]   INFO -                  TestNG Runner - Create TestNG Template Configuration 
+2014-08-22 01:23:45,607 [ 139669]   INFO -                  TestNG Runner - Create TestNG Template Configuration 
+2014-08-22 01:23:45,643 [ 139705]   INFO - ellij.project.impl.ProjectImpl - 23 project components initialized in 218 ms 
+2014-08-22 01:23:45,644 [ 139706]   INFO - le.impl.ModuleManagerComponent - 0 module(s) loaded in 0 ms 
+2014-08-22 01:24:03,872 [ 157934]   INFO -                  TestNG Runner - Create TestNG Template Configuration 
+2014-08-22 01:24:03,888 [ 157950]   INFO -                  TestNG Runner - Create TestNG Template Configuration 
+2014-08-22 01:24:04,106 [ 158168]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/dynamic.xml file is null 
+2014-08-22 01:24:04,257 [ 158319]   INFO - ellij.project.impl.ProjectImpl - 164 project components initialized in 1010 ms 
+2014-08-22 01:24:05,433 [ 159495]   INFO - le.impl.ModuleManagerComponent - 2 module(s) loaded in 1175 ms 
+2014-08-22 01:24:06,398 [ 160460]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/scala_compiler.xml file is null 
+2014-08-22 01:24:06,411 [ 160473]   INFO - dea.sdk.CheckAndroidSdkUpdates - Android SDK Data == null 
+2014-08-22 01:24:06,605 [ 160667]   INFO - .roots.impl.DirectoryIndexImpl - Directory index initialized in 0 ms, indexed 0 directories 
+2014-08-22 01:24:06,704 [ 160766]   INFO - pl.PushedFilePropertiesUpdater - File properties pushed in 95 ms 
+2014-08-22 01:24:07,280 [ 161342]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/codeStyleSettings.xml file is null 
+2014-08-22 01:24:07,282 [ 161344]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/projectCodeStyle.xml file is null 
+2014-08-22 01:24:07,456 [ 161518]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/fileColors.xml file is null 
+2014-08-22 01:24:14,269 [ 168331]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/scala_settings.xml file is null 
+2014-08-22 01:24:19,856 [ 173918]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/gant_config.xml file is null 
+2014-08-22 01:24:22,156 [ 176218]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/gradle.xml file is null 
+2014-08-22 01:24:22,177 [ 176239]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix jar:file:/C:/Users/subbu/.IdeaIC13/config/plugins/Scala/lib/scala-plugin.jar!/sbt.png 
+2014-08-22 01:24:22,344 [ 176406]   INFO - indexing.UnindexedFilesUpdater - Indexable files iterated in 15560 ms 
+2014-08-22 01:24:22,346 [ 176408]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 0 files to update 
+2014-08-22 01:24:22,346 [ 176408]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update done in 0 ms 
+2014-08-22 01:24:23,949 [ 178011]   INFO - ution.rmi.RemoteProcessSupport - "C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 13.1.4\jre\jre\bin\java" -Djava.awt.headless=true -Dsun.rmi.transport.connectionTimeout=3600000 -Dexternal.system.id=SBT -Dfile.encoding=windows-1252 -classpath "/C:/Program Files (x86)/JetBrains/IntelliJ IDEA Community Edition 13.1.4/lib/idea.jar;/C:/Program Files (x86)/JetBrains/IntelliJ IDEA Community Edition 13.1.4/lib/resources_en.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 13.1.4\lib\annotations.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 13.1.4\lib\log4j.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 13.1.4\lib\jna-utils.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 13.1.4\lib\oromatcher.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 13.1.4\lib\jna.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 13.1.4\lib\util.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 13.1.4\lib\picocontainer.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 13.1.4\lib\trove4j.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 13.1.4\lib\jdom.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 13.1.4\lib\resources_en.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 13.1.4\lib\openapi.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 13.1.4\lib\idea.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 13.1.4\lib\extensions.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 13.1.4\jre\jre\lib\rt.jar;C:\Users\subbu\.IdeaIC13\config\plugins\Scala\lib\scala-plugin.jar;C:\Users\subbu\.IdeaIC13\config\plugins\Scala\lib\scala-library.jar;C:\Users\subbu\.IdeaIC13\config\plugins\Scala\lib\scala-xml_2.11-1.0.2.jar" com.intellij.openapi.externalSystem.service.RemoteExternalSystemFacadeImpl org.jetbrains.sbt.project.SbtProjectResolver org.jetbrains.sbt.project.SbtTaskManager 
+2014-08-22 01:24:27,191 [ 181253]   INFO -         #git4idea.commands.Git - VirtualFile for path [project/target/config-classes/$5d79b6645370878dd3ab$$anonfun$$sbtdef$1.class] is null 
+2014-08-22 01:24:27,192 [ 181254]   INFO -         #git4idea.commands.Git - VirtualFile for path [project/target/config-classes/$5d79b6645370878dd3ab$.class] is null 
+2014-08-22 01:24:27,193 [ 181255]   INFO -         #git4idea.commands.Git - VirtualFile for path [project/target/config-classes/$5d79b6645370878dd3ab.cache] is null 
+2014-08-22 01:24:27,193 [ 181255]   INFO -         #git4idea.commands.Git - VirtualFile for path [project/target/config-classes/$5d79b6645370878dd3ab.class] is null 
+2014-08-22 01:24:29,144 [ 183206]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/IntelliLang.xml file is null 
+2014-08-22 01:24:30,235 [ 184297]   INFO - ution.rmi.RemoteProcessSupport - Port/ID: 61102/RemoteExternalSystemFacadeImplbbce505c 
+2014-08-22 01:24:34,731 [ 188793]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 31600 ms 
+2014-08-22 01:24:47,192 [ 201254]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/cachedDictionary.xml file is null 
+2014-08-22 01:25:07,929 [ 221991]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/intentionSettings.xml file is null 
+2014-08-22 01:25:12,475 [ 226537]   INFO - ellij.concurrency.JobScheduler - 50 ms execution limit failed for: com.intellij.openapi.editor.impl.EditorImpl$RepaintCursorCommand@1425ee5; elapsed time was 96ms 
+2014-08-22 01:25:17,537 [ 231599]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2014-08-22 01:25:17,702 [ 231764]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/uiDesigner.xml file is null 
+2014-08-22 01:25:18,269 [ 232331]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/ant.xml file is null 
+2014-08-22 01:25:24,610 [ 238672]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /C:/Program Files (x86)/JetBrains/IntelliJ IDEA Community Edition 13.1.4/lib/jps-launcher.jar;C:/Program Files/java/jdk1.7.0_51/lib/tools.jar;/C:/Program Files (x86)/JetBrains/IntelliJ IDEA Community Edition 13.1.4/lib/optimizedFileManager.jar;/C:/Program Files (x86)/JetBrains/IntelliJ IDEA Community Edition 13.1.4/lib/ecj-4.3.2.jar 
+2014-08-22 01:25:31,038 [ 245100]   INFO - ution.rmi.RemoteProcessSupport - Process finished with exit code 0 
+2014-08-22 01:25:42,335 [ 256397]   INFO - ellij.concurrency.JobScheduler - 50 ms execution limit failed for: com.intellij.openapi.progress.impl.ProgressManagerImpl$1@c042d9; elapsed time was 113ms 
+2014-08-22 01:26:05,395 [ 279457]   INFO - .manage.ContentRootDataService - Importing content root 'C:/Users/subbu/scala-cucumber-webdriver-example' for module 'scala-cucumber-webdriver-example' 
+2014-08-22 01:26:05,397 [ 279459]   INFO - .manage.ContentRootDataService - Importing source_root(C:/Users/subbu/scala-cucumber-webdriver-example/src/main/java) for content root 'file://C:/Users/subbu/scala-cucumber-webdriver-example' of module 'scala-cucumber-webdriver-example' 
+2014-08-22 01:26:05,398 [ 279460]   INFO - .manage.ContentRootDataService - Importing source_root(C:/Users/subbu/scala-cucumber-webdriver-example/src/main/scala) for content root 'file://C:/Users/subbu/scala-cucumber-webdriver-example' of module 'scala-cucumber-webdriver-example' 
+2014-08-22 01:26:05,399 [ 279461]   INFO - .manage.ContentRootDataService - Importing source_root(C:/Users/subbu/scala-cucumber-webdriver-example/target/scala-2.10/src_managed/main) for content root 'file://C:/Users/subbu/scala-cucumber-webdriver-example' of module 'scala-cucumber-webdriver-example' 
+2014-08-22 01:26:05,400 [ 279462]   INFO - .manage.ContentRootDataService - Importing source_root(C:/Users/subbu/scala-cucumber-webdriver-example/src/test/java) for content root 'file://C:/Users/subbu/scala-cucumber-webdriver-example' of module 'scala-cucumber-webdriver-example' 
+2014-08-22 01:26:05,401 [ 279463]   INFO - .manage.ContentRootDataService - Importing source_root(C:/Users/subbu/scala-cucumber-webdriver-example/target/scala-2.10/src_managed/test) for content root 'file://C:/Users/subbu/scala-cucumber-webdriver-example' of module 'scala-cucumber-webdriver-example' 
+2014-08-22 01:26:05,402 [ 279464]   INFO - .manage.ContentRootDataService - Importing source_root(C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala) for content root 'file://C:/Users/subbu/scala-cucumber-webdriver-example' of module 'scala-cucumber-webdriver-example' 
+2014-08-22 01:26:05,403 [ 279465]   INFO - .manage.ContentRootDataService - Importing source_root(C:/Users/subbu/scala-cucumber-webdriver-example/target/scala-2.10/resource_managed/main) for content root 'file://C:/Users/subbu/scala-cucumber-webdriver-example' of module 'scala-cucumber-webdriver-example' 
+2014-08-22 01:26:05,404 [ 279466]   INFO - .manage.ContentRootDataService - Importing source_root(C:/Users/subbu/scala-cucumber-webdriver-example/src/main/resources) for content root 'file://C:/Users/subbu/scala-cucumber-webdriver-example' of module 'scala-cucumber-webdriver-example' 
+2014-08-22 01:26:05,405 [ 279467]   INFO - .manage.ContentRootDataService - Importing source_root(C:/Users/subbu/scala-cucumber-webdriver-example/target/scala-2.10/resource_managed/test) for content root 'file://C:/Users/subbu/scala-cucumber-webdriver-example' of module 'scala-cucumber-webdriver-example' 
+2014-08-22 01:26:05,406 [ 279468]   INFO - .manage.ContentRootDataService - Importing source_root(C:/Users/subbu/scala-cucumber-webdriver-example/src/test/resources) for content root 'file://C:/Users/subbu/scala-cucumber-webdriver-example' of module 'scala-cucumber-webdriver-example' 
+2014-08-22 01:26:05,408 [ 279470]   INFO - .manage.ContentRootDataService - Importing excluded root 'source_root(C:/Users/subbu/scala-cucumber-webdriver-example/target)' for content root 'file://C:/Users/subbu/scala-cucumber-webdriver-example' of module 'scala-cucumber-webdriver-example' 
+2014-08-22 01:26:05,460 [ 279522]   INFO - .manage.ContentRootDataService - Importing content root 'C:/Users/subbu/scala-cucumber-webdriver-example/project' for module 'scala-cucumber-webdriver-example-build' 
+2014-08-22 01:26:05,461 [ 279523]   INFO - .manage.ContentRootDataService - Importing source_root(C:/Users/subbu/scala-cucumber-webdriver-example/project) for content root 'file://C:/Users/subbu/scala-cucumber-webdriver-example/project' of module 'scala-cucumber-webdriver-example-build' 
+2014-08-22 01:26:05,462 [ 279524]   INFO - .manage.ContentRootDataService - Importing excluded root 'source_root(C:/Users/subbu/scala-cucumber-webdriver-example/project/project/target)' for content root 'file://C:/Users/subbu/scala-cucumber-webdriver-example/project' of module 'scala-cucumber-webdriver-example-build' 
+2014-08-22 01:26:05,463 [ 279525]   INFO - .manage.ContentRootDataService - Importing excluded root 'source_root(C:/Users/subbu/scala-cucumber-webdriver-example/project/target)' for content root 'file://C:/Users/subbu/scala-cucumber-webdriver-example/project' of module 'scala-cucumber-webdriver-example-build' 
+2014-08-22 01:26:06,183 [ 280245]   INFO - indexing.UnindexedFilesUpdater - Indexable files iterated in 86 ms 
+2014-08-22 01:26:06,184 [ 280246]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 0 files to update 
+2014-08-22 01:26:06,184 [ 280246]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update done in 0 ms 
+2014-08-22 01:26:08,941 [ 283003]   INFO - ellij.concurrency.JobScheduler - 50 ms execution limit failed for: com.intellij.openapi.progress.impl.ProgressManagerImpl$1@c042d9; elapsed time was 286ms 
+2014-08-22 01:26:40,178 [ 314240]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 27; warnings: 0 took 82921 ms: 1 min 22sec 
+2014-08-22 01:27:03,212 [ 337274]   INFO - ution.rmi.RemoteProcessSupport - Process finished with exit code 0 
+2014-08-22 01:27:48,383 [ 382445]   INFO -                  TestNG Runner - Create TestNG Template Configuration 
+2014-08-22 01:27:48,394 [ 382456]   INFO -                  TestNG Runner - Create TestNG Template Configuration 
+2014-08-22 01:27:48,554 [ 382616]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/dynamic.xml file is null 
+2014-08-22 01:27:48,615 [ 382677]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/highlighting.xml file is null 
+2014-08-22 01:27:48,720 [ 382782]   INFO - ellij.project.impl.ProjectImpl - 164 project components initialized in 752 ms 
+2014-08-22 01:27:48,794 [ 382856]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 73 ms 
+2014-08-22 01:27:49,510 [ 383572]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/scala_compiler.xml file is null 
+2014-08-22 01:27:49,523 [ 383585]   INFO - dea.sdk.CheckAndroidSdkUpdates - Android SDK Data == null 
+2014-08-22 01:27:49,674 [ 383736]   INFO - .roots.impl.DirectoryIndexImpl - Directory index initialized in 0 ms, indexed 0 directories 
+2014-08-22 01:27:49,708 [ 383770]   INFO - pl.PushedFilePropertiesUpdater - File properties pushed in 33 ms 
+2014-08-22 01:27:49,825 [ 383887]   INFO - indexing.UnindexedFilesUpdater - Indexable files iterated in 79 ms 
+2014-08-22 01:27:49,826 [ 383888]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 0 files to update 
+2014-08-22 01:27:49,826 [ 383888]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update done in 0 ms 
+2014-08-22 01:27:50,074 [ 384136]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/codeStyleSettings.xml file is null 
+2014-08-22 01:27:50,076 [ 384138]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/projectCodeStyle.xml file is null 
+2014-08-22 01:27:50,191 [ 384253]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/fileColors.xml file is null 
+2014-08-22 01:27:51,785 [ 385847]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/gradle.xml file is null 
+2014-08-22 01:27:51,787 [ 385849]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/sbt.xml file is null 
+2014-08-22 01:27:52,271 [ 386333]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/scala_settings.xml file is null 
+2014-08-22 01:27:52,344 [ 386406]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/gant_config.xml file is null 
+2014-08-22 01:27:54,094 [ 388156]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $PROJECT_CONFIG_DIR$/IntelliLang.xml file is null 
+2014-08-22 01:27:54,661 [ 388723]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 6828 ms 
+2014-08-22 01:28:07,815 [ 401877]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/emmet.xml file is null 
+2014-08-22 01:28:07,822 [ 401884]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/postfixTemplates.xml file is null 
+2014-08-22 01:29:50,139 [ 504201]   INFO - openapi.editor.impl.EditorImpl - Cache hits:4096, total requests:4569,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/pages/AnnualTaxSummaryPage.scala 
+2014-08-22 01:32:17,973 [ 652035]   INFO -  #git4idea.commands.GitHandler - cd C:\Users\subbu\scala-cucumber-webdriver-example 
+2014-08-22 01:32:17,974 [ 652036]   INFO -  #git4idea.commands.GitHandler - git rm --ignore-unmatch -- src/test/scala/pages/IncomeBeforeTaxPage.scala 
+2014-08-22 01:32:23,447 [ 657509]   INFO -  #git4idea.commands.GitHandler - cd C:\Users\subbu\scala-cucumber-webdriver-example 
+2014-08-22 01:32:23,451 [ 657513]   INFO -  #git4idea.commands.GitHandler - git rm --ignore-unmatch -- src/test/scala/pages/TaxFreeAmountPage.scala 
+2014-08-22 01:32:28,763 [ 662825]   INFO -  #git4idea.commands.GitHandler - cd C:\Users\subbu\scala-cucumber-webdriver-example 
+2014-08-22 01:32:28,763 [ 662825]   INFO -  #git4idea.commands.GitHandler - git rm --ignore-unmatch -- src/test/scala/pages/TotalIncomeTaxPage.scala 
+2014-08-22 01:32:33,723 [ 667785]   INFO -  #git4idea.commands.GitHandler - cd C:\Users\subbu\scala-cucumber-webdriver-example 
+2014-08-22 01:32:33,723 [ 667785]   INFO -  #git4idea.commands.GitHandler - git rm --ignore-unmatch -- src/test/scala/pages/CapitalGainsPage.scala 
+2014-08-22 01:32:46,849 [ 680911]   INFO -  #git4idea.commands.GitHandler - cd C:\Users\subbu\scala-cucumber-webdriver-example 
+2014-08-22 01:32:46,850 [ 680912]   INFO -  #git4idea.commands.GitHandler - git rm --ignore-unmatch -- src/test/scala/pages/BizTaxHomePage.scala 
+2014-08-22 01:35:10,874 [ 824936]   INFO -  #git4idea.commands.GitHandler - cd C:\Users\subbu\scala-cucumber-webdriver-example 
+2014-08-22 01:35:10,875 [ 824937]   INFO -  #git4idea.commands.GitHandler - git rm --ignore-unmatch -- src/test/scala/resources/data/test_personas/TestPersonaFive.scala 
+2014-08-22 01:35:14,705 [ 828767]   INFO -  #git4idea.commands.GitHandler - cd C:\Users\subbu\scala-cucumber-webdriver-example 
+2014-08-22 01:35:14,706 [ 828768]   INFO -  #git4idea.commands.GitHandler - git rm --ignore-unmatch -- src/test/scala/resources/data/test_personas/TestPersonaEight.scala 
+2014-08-22 01:35:18,773 [ 832835]   INFO -  #git4idea.commands.GitHandler - cd C:\Users\subbu\scala-cucumber-webdriver-example 
+2014-08-22 01:35:18,773 [ 832835]   INFO -  #git4idea.commands.GitHandler - git rm --ignore-unmatch -- src/test/scala/resources/data/test_personas/TestPersonaSeven.scala 
+2014-08-22 01:35:23,502 [ 837564]   INFO -  #git4idea.commands.GitHandler - cd C:\Users\subbu\scala-cucumber-webdriver-example 
+2014-08-22 01:35:23,503 [ 837565]   INFO -  #git4idea.commands.GitHandler - git rm --ignore-unmatch -- src/test/scala/resources/data/test_personas/TestPersonaSix.scala 
+2014-08-22 01:36:05,008 [ 879070]   INFO -  #git4idea.commands.GitHandler - cd C:\Users\subbu\scala-cucumber-webdriver-example 
+2014-08-22 01:36:05,009 [ 879071]   INFO -  #git4idea.commands.GitHandler - git rm --ignore-unmatch -- src/test/scala/resources/data/test_personas/TestPersonaFour.scala 
+2014-08-22 01:36:08,722 [ 882784]   INFO - openapi.editor.impl.EditorImpl - Cache hits:4096, total requests:5501,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/resources/data/AnnualTaxSummaryUsers.scala 
+2014-08-22 01:43:36,889 [1330951]   INFO - openapi.editor.impl.EditorImpl - Cache hits:4096, total requests:8408,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/resources/utils/EnvConfiguration.scala 
+2014-08-22 01:45:36,527 [1450589]   INFO - openapi.editor.impl.EditorImpl - Cache hits:8192, total requests:17257,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/resources/utils/EnvConfiguration.scala 
+2014-08-22 01:47:36,594 [1570656]   INFO - openapi.editor.impl.EditorImpl - Cache hits:12288, total requests:22604,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/resources/utils/EnvConfiguration.scala 
+2014-08-22 01:51:33,761 [1807823]   INFO - openapi.editor.impl.EditorImpl - Cache hits:16384, total requests:27838,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/resources/utils/EnvConfiguration.scala 
+2014-08-22 01:57:53,979 [2188041]   INFO - openapi.editor.impl.EditorImpl - Cache hits:8192, total requests:9178,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/pages/AnnualTaxSummaryPage.scala 
+2014-08-22 02:08:36,603 [2830665]   INFO - openapi.editor.impl.EditorImpl - Cache hits:12288, total requests:14249,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/pages/AnnualTaxSummaryPage.scala 
+2014-08-22 02:21:03,924 [3577986]   INFO - openapi.editor.impl.EditorImpl - Cache hits:16384, total requests:19269,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/pages/AnnualTaxSummaryPage.scala 
+2014-08-22 02:21:45,014 [3619076]   INFO - ellij.concurrency.JobScheduler - 50 ms execution limit failed for: com.intellij.openapi.progress.impl.ProgressManagerImpl$1@c042d9; elapsed time was 67ms 
+2014-08-22 02:22:47,471 [3681533]   INFO - openapi.editor.impl.EditorImpl - Cache hits:20480, total requests:23979,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/pages/AnnualTaxSummaryPage.scala 
+2014-08-22 02:25:42,013 [3856075]   INFO - openapi.editor.impl.EditorImpl - Cache hits:24576, total requests:28689,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/pages/AnnualTaxSummaryPage.scala 
+2014-08-22 02:26:52,254 [3926316]   INFO - openapi.editor.impl.EditorImpl - Cache hits:4096, total requests:4443,file://C:/tax-summaries-acceptance-tests/src/test/scala/uk/gov/hmrc/integration/cucumber/resources/utils/EnvConfiguration.scala 
+2014-08-22 02:29:00,467 [4054529]   INFO - api.vfs.impl.local.FileWatcher - Change requests:16384, filtered:6650 
+2014-08-22 02:30:19,933 [4133995]   INFO - openapi.editor.impl.EditorImpl - Cache hits:4096, total requests:6401,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/pages/Page.scala 
+2014-08-22 02:33:26,660 [4320722]   INFO - openapi.editor.impl.EditorImpl - Cache hits:8192, total requests:11566,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/pages/Page.scala 
+2014-08-22 02:34:29,400 [4383462]   INFO - openapi.editor.impl.EditorImpl - Cache hits:12288, total requests:16081,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/pages/Page.scala 
+2014-08-22 02:35:44,219 [4458281]   INFO - openapi.editor.impl.EditorImpl - Cache hits:16384, total requests:23635,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/pages/Page.scala 
+2014-08-22 02:37:46,148 [4580210]   INFO - openapi.editor.impl.EditorImpl - Cache hits:28672, total requests:33574,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/pages/AnnualTaxSummaryPage.scala 
+2014-08-22 02:38:33,787 [4627849]   INFO - openapi.editor.impl.EditorImpl - Cache hits:20480, total requests:30555,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/pages/Page.scala 
+2014-08-22 02:42:10,334 [4844396]   INFO - openapi.editor.impl.EditorImpl - Cache hits:32768, total requests:38672,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/pages/AnnualTaxSummaryPage.scala 
+2014-08-22 02:44:50,766 [5004828]   INFO - ellij.concurrency.JobScheduler - 50 ms execution limit failed for: com.intellij.openapi.progress.impl.ProgressManagerImpl$1@c042d9; elapsed time was 83ms 
+2014-08-22 02:46:06,699 [5080761]   INFO - openapi.editor.impl.EditorImpl - Cache hits:36864, total requests:43351,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/pages/AnnualTaxSummaryPage.scala 
+2014-08-22 02:48:03,772 [5197834]   INFO - openapi.editor.impl.EditorImpl - Cache hits:40960, total requests:48089,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/pages/AnnualTaxSummaryPage.scala 
+2014-08-22 02:49:37,833 [5291895]   INFO - ellij.concurrency.JobScheduler - 50 ms execution limit failed for: com.intellij.openapi.progress.impl.ProgressManagerImpl$1@c042d9; elapsed time was 69ms 
+2014-08-22 02:49:40,799 [5294861]   INFO - openapi.editor.impl.EditorImpl - Cache hits:45056, total requests:52785,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/pages/AnnualTaxSummaryPage.scala 
+2014-08-22 02:52:08,613 [5442675]   INFO - openapi.editor.impl.EditorImpl - Cache hits:49152, total requests:57479,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/pages/AnnualTaxSummaryPage.scala 
+2014-08-22 02:53:29,209 [5523271]   INFO - ellij.concurrency.JobScheduler - 50 ms execution limit failed for: com.intellij.openapi.editor.impl.EditorImpl$RepaintCursorCommand@1425ee5; elapsed time was 80ms 
+2014-08-22 02:53:56,869 [5550931]   INFO - openapi.editor.impl.EditorImpl - Cache hits:8192, total requests:8561,file://C:/tax-summaries-acceptance-tests/src/test/scala/uk/gov/hmrc/integration/cucumber/resources/utils/EnvConfiguration.scala 
+2014-08-22 02:54:16,383 [5570445]   INFO - openapi.editor.impl.EditorImpl - Cache hits:53248, total requests:62133,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/pages/AnnualTaxSummaryPage.scala 
+2014-08-22 02:56:22,501 [5696563]   INFO - openapi.editor.impl.EditorImpl - Cache hits:57344, total requests:66842,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/pages/AnnualTaxSummaryPage.scala 
+2014-08-22 02:56:28,745 [5702807]   INFO - ellij.concurrency.JobScheduler - 50 ms execution limit failed for: com.intellij.openapi.progress.impl.ProgressManagerImpl$1@c042d9; elapsed time was 74ms 
+2014-08-22 03:02:08,636 [6042698]   INFO - openapi.editor.impl.EditorImpl - Cache hits:4096, total requests:7081,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/resources/features/myFirstFeature.feature 
+2014-08-22 03:06:23,855 [6297917]   INFO - openapi.editor.impl.EditorImpl - Cache hits:8192, total requests:13340,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/resources/features/myFirstFeature.feature 
+2014-08-22 03:07:29,947 [6364009]   INFO - openapi.editor.impl.EditorImpl - Cache hits:4096, total requests:5623,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/stepdefs/MyFirstCucumberTest.scala 
+2014-08-22 03:10:03,456 [6517518]   INFO - openapi.editor.impl.EditorImpl - Cache hits:61440, total requests:71641,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/pages/AnnualTaxSummaryPage.scala 
+2014-08-22 03:14:03,547 [6757609]   INFO - ellij.concurrency.JobScheduler - 50 ms execution limit failed for: com.intellij.openapi.progress.impl.ProgressManagerImpl$1@c042d9; elapsed time was 60ms 
+2014-08-22 03:18:12,541 [7006603]   INFO - openapi.editor.impl.EditorImpl - Cache hits:65536, total requests:76469,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/pages/AnnualTaxSummaryPage.scala 
+2014-08-22 03:20:08,761 [7122823]   INFO - openapi.editor.impl.EditorImpl - Cache hits:8192, total requests:11717,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/stepdefs/MyFirstCucumberTest.scala 
+2014-08-22 03:20:53,390 [7167452]   INFO - openapi.editor.impl.EditorImpl - Cache hits:69632, total requests:80911,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/pages/AnnualTaxSummaryPage.scala 
+2014-08-22 03:28:23,019 [7617081]   INFO - openapi.editor.impl.EditorImpl - Cache hits:73728, total requests:85483,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/pages/AnnualTaxSummaryPage.scala 
+2014-08-22 03:29:22,634 [7676696]   INFO - openapi.editor.impl.EditorImpl - Cache hits:77824, total requests:89989,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/pages/AnnualTaxSummaryPage.scala 
+2014-08-22 03:32:14,867 [7848929]   INFO - openapi.editor.impl.EditorImpl - Cache hits:4096, total requests:6954,file://C:/tax-summaries-acceptance-tests/src/test/scala/uk/gov/hmrc/integration/cucumber/stepdefs/AnnualTaxSummaryPageTest.scala 
+2014-08-22 03:32:44,502 [7878564]   INFO - openapi.editor.impl.EditorImpl - Cache hits:12288, total requests:17977,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/stepdefs/MyFirstCucumberTest.scala 
+2014-08-22 03:34:15,305 [7969367]   INFO - openapi.editor.impl.EditorImpl - Cache hits:81920, total requests:94556,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/pages/AnnualTaxSummaryPage.scala 
+2014-08-22 03:36:13,985 [8088047]   INFO - openapi.editor.impl.EditorImpl - Cache hits:86016, total requests:99112,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/pages/AnnualTaxSummaryPage.scala 
+2014-08-22 03:38:17,411 [8211473]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/github_settings.xml file is null 
+2014-08-22 03:40:29,639 [8343701]   INFO - openapi.editor.impl.EditorImpl - Cache hits:16384, total requests:23780,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/stepdefs/MyFirstCucumberTest.scala 
+2014-08-22 03:41:44,745 [8418807]   INFO - ellij.concurrency.JobScheduler - 50 ms execution limit failed for: com.intellij.openapi.progress.impl.ProgressManagerImpl$1@c042d9; elapsed time was 52ms 
+2014-08-22 03:42:21,439 [8455501]   INFO -  #git4idea.commands.GitHandler - cd C:\Users\subbu\scala-cucumber-webdriver-example 
+2014-08-22 03:42:21,439 [8455501]   INFO -  #git4idea.commands.GitHandler - git rm --ignore-unmatch -- src/test/scala/pages/GovernmentGatewayLoginPage.scala 
+2014-08-22 03:43:40,460 [8534522]   INFO - openapi.editor.impl.EditorImpl - Cache hits:24576, total requests:35502,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/pages/Page.scala 
+2014-08-22 03:45:16,675 [8630737]   INFO - api.vfs.impl.local.FileWatcher - Change requests:32768, filtered:13056 
+2014-08-22 03:45:33,031 [8647093]   INFO -  #git4idea.commands.GitHandler - cd C:\Users\subbu\scala-cucumber-webdriver-example 
+2014-08-22 03:45:33,032 [8647094]   INFO -  #git4idea.commands.GitHandler - git rm --ignore-unmatch -- src/test/scala/resources/data/test_personas/TestUsers.scala src/test/scala/resources/data/test_personas/TestDataFields.scala src/test/scala/resources/data/test_personas/TestPersonaOne.scala src/test/scala/resources/data/test_personas/TestPersonaTwo.scala src/test/scala/resources/data/test_personas/TestPersonaThree.scala src/test/scala/resources/data/AnnualTaxSummaryUsers.scala 
+2014-08-22 03:47:18,406 [8752468]   INFO - openapi.editor.impl.EditorImpl - Cache hits:4096, total requests:6285,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/resources/utils/driver/TearDown.scala 
+2014-08-22 03:47:51,957 [8786019]   INFO - openapi.editor.impl.EditorImpl - Cache hits:20480, total requests:30044,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/stepdefs/MyFirstCucumberTest.scala 
+2014-08-22 03:50:15,216 [8929278]   INFO - openapi.editor.impl.EditorImpl - Cache hits:24576, total requests:35881,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/stepdefs/MyFirstCucumberTest.scala 
+2014-08-22 03:51:51,874 [9025936]   INFO - ellij.concurrency.JobScheduler - 50 ms execution limit failed for: com.intellij.openapi.progress.impl.ProgressManagerImpl$1@c042d9; elapsed time was 92ms 
+2014-08-22 03:52:09,202 [9043264]   INFO - openapi.editor.impl.EditorImpl - Cache hits:28672, total requests:41330,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/stepdefs/MyFirstCucumberTest.scala 
+2014-08-22 03:52:41,971 [9076033]   INFO - a.repo.GitUntrackedFilesHolder - GitUntrackedFilesHolder: Index has changed, marking file://C:/Users/subbu/scala-cucumber-webdriver-example recursively dirty 
+2014-08-22 03:55:30,087 [9244149]   INFO - openapi.editor.impl.EditorImpl - Cache hits:4096, total requests:8960,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/resources/utils/driver/Driver.scala 
+2014-08-22 03:57:23,383 [9357445]   INFO - openapi.editor.impl.EditorImpl - Cache hits:8192, total requests:11261,file://C:/tax-summaries-acceptance-tests/src/test/scala/uk/gov/hmrc/integration/cucumber/stepdefs/AnnualTaxSummaryPageTest.scala 
+2014-08-22 03:57:50,505 [9384567]   INFO - openapi.editor.impl.EditorImpl - Cache hits:8192, total requests:16989,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/resources/utils/driver/Driver.scala 
+2014-08-22 03:59:12,644 [9466706]   INFO -  #git4idea.commands.GitHandler - cd C:\Users\subbu\scala-cucumber-webdriver-example 
+2014-08-22 03:59:12,644 [9466706]   INFO -  #git4idea.commands.GitHandler - git add --ignore-errors -- src/test/scala/pages/AmazonKindleBookPage.scala 
+2014-08-22 03:59:12,815 [9466877]   INFO -  #git4idea.commands.GitHandler - warning: LF will be replaced by CRLF in src/test/scala/pages/AmazonKindleBookPage.scala.
+The file will have its original line endings in your working directory. 
+2014-08-22 04:01:26,001 [9600063]   INFO - a.repo.GitUntrackedFilesHolder - GitUntrackedFilesHolder: Index has changed, marking file://C:/Users/subbu/scala-cucumber-webdriver-example recursively dirty 
+2014-08-22 04:08:30,993 [10025055]   INFO -  #git4idea.commands.GitHandler - cd C:\Users\subbu\scala-cucumber-webdriver-example 
+2014-08-22 04:08:30,993 [10025055]   INFO -  #git4idea.commands.GitHandler - git add --ignore-errors -- src/test/scala/resources/utils/driver/Driver.scala 
+2014-08-22 04:08:31,135 [10025197]   INFO -  #git4idea.commands.GitHandler - warning: LF will be replaced by CRLF in src/test/scala/resources/utils/driver/Driver.scala.
+The file will have its original line endings in your working directory. 
+2014-08-22 04:08:57,523 [10051585]   INFO - openapi.editor.impl.EditorImpl - Cache hits:28672, total requests:40908,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/pages/Page.scala 
+2014-08-22 04:12:14,000 [10248062]   INFO - ellij.concurrency.JobScheduler - 50 ms execution limit failed for: com.intellij.openapi.editor.impl.EditorImpl$RepaintCursorCommand@1425ee5; elapsed time was 71ms 
+2014-08-22 04:12:16,500 [10250562]   INFO - openapi.editor.impl.EditorImpl - Cache hits:32768, total requests:47259,file://C:/Users/subbu/scala-cucumber-webdriver-example/src/test/scala/stepdefs/MyFirstCucumberTest.scala 
+2014-08-22 04:12:30,863 [10264925]   INFO - a.repo.GitUntrackedFilesHolder - GitUntrackedFilesHolder: Index has changed, marking file://C:/Users/subbu/scala-cucumber-webdriver-example recursively dirty 
+2014-08-22 04:14:55,327 [10409389]   INFO -  #git4idea.commands.GitHandler - cd C:\Users\subbu\scala-cucumber-webdriver-example 
+2014-08-22 04:14:55,327 [10409389]   INFO -  #git4idea.commands.GitHandler - git add --ignore-errors -- src/test/scala/stepdefs/MyFirstCucumberTest.scala 
+2014-08-22 04:15:26,704 [10440766]   INFO - ellij.concurrency.JobScheduler - 50 ms execution limit failed for: com.intellij.openapi.progress.impl.ProgressManagerImpl$1@c042d9; elapsed time was 67ms 
+2014-08-22 04:15:44,156 [10458218]   INFO -  #git4idea.commands.GitHandler - cd C:\Users\subbu\scala-cucumber-webdriver-example 
+2014-08-22 04:15:44,157 [10458219]   INFO -  #git4idea.commands.GitHandler - git config core.autocrlf 
+2014-08-22 04:15:44,681 [10458743]   INFO -  #git4idea.commands.GitHandler - cd C:\Users\subbu\scala-cucumber-webdriver-example 
+2014-08-22 04:15:44,681 [10458743]   INFO -  #git4idea.commands.GitHandler - git commit --only -F C:\Users\subbu\AppData\Local\Temp\git-commit-msg-5045670009062096090.txt -- src/test/scala/stepdefs/MyFirstCucumberTest.scala 
+2014-08-22 04:15:44,966 [10459028]   INFO -  #git4idea.commands.GitHandler - [master b761835] cucmber test  commit
+ 1 file changed, 14 insertions(+), 12 deletions(-) 
+2014-08-22 04:15:56,085 [10470147]   INFO -  #git4idea.commands.GitHandler - cd C:\Users\subbu\scala-cucumber-webdriver-example 
+2014-08-22 04:15:56,085 [10470147]   INFO -  #git4idea.commands.GitHandler - git add --ignore-errors -- src/test/scala/resources/utils/driver/SeleniumBase.scala 
+2014-08-22 04:15:56,206 [10470268]   INFO -  #git4idea.commands.GitHandler - warning: LF will be replaced by CRLF in src/test/scala/resources/utils/driver/SeleniumBase.scala.
+The file will have its original line endings in your working directory. 
+2014-08-22 04:16:04,941 [10479003]   INFO -  #git4idea.commands.GitHandler - cd C:\Users\subbu\scala-cucumber-webdriver-example 
+2014-08-22 04:16:04,941 [10479003]   INFO -  #git4idea.commands.GitHandler - git add --ignore-errors -- src/test/scala/resources/utils/driver/TearDown.scala 
+2014-08-22 04:16:05,053 [10479115]   INFO -  #git4idea.commands.GitHandler - warning: LF will be replaced by CRLF in src/test/scala/resources/utils/driver/TearDown.scala.
+The file will have its original line endings in your working directory. 
+2014-08-22 04:16:28,456 [10502518]   INFO -  #git4idea.commands.GitHandler - cd C:\Users\subbu\scala-cucumber-webdriver-example 
+2014-08-22 04:16:28,456 [10502518]   INFO -  #git4idea.commands.GitHandler - git config core.autocrlf 
+2014-08-22 04:16:28,933 [10502995]   INFO -  #git4idea.commands.GitHandler - cd C:\Users\subbu\scala-cucumber-webdriver-example 
+2014-08-22 04:16:28,933 [10502995]   INFO -  #git4idea.commands.GitHandler - git commit --only -F C:\Users\subbu\AppData\Local\Temp\git-commit-msg-7368995442783322451.txt -- src/test/scala/resources/utils/driver/Driver.scala 
+2014-08-22 04:16:29,180 [10503242]   INFO -  #git4idea.commands.GitHandler - [master 6d50e8d] cucmber test  commit
+ 1 file changed, 45 insertions(+)
+ create mode 100644 src/test/scala/resources/utils/driver/Driver.scala 
+2014-08-22 04:17:43,427 [10577489]   INFO -  #git4idea.commands.GitHandler - cd C:\Users\subbu\scala-cucumber-webdriver-example 
+2014-08-22 04:17:43,428 [10577490]   INFO -  #git4idea.commands.GitHandler - git config core.autocrlf 
+2014-08-22 04:17:43,834 [10577896]   INFO -  #git4idea.commands.GitHandler - cd C:\Users\subbu\scala-cucumber-webdriver-example 
+2014-08-22 04:17:43,835 [10577897]   INFO -  #git4idea.commands.GitHandler - git commit --only -F C:\Users\subbu\AppData\Local\Temp\git-commit-msg-8662128267153269479.txt -- src/test/scala/pages/AmazonKindleBookPage.scala src/test/scala/resources/utils/driver/TearDown.scala src/test/scala/resources/utils/driver/SeleniumBase.scala 
+2014-08-22 04:17:44,157 [10578219]   INFO -  #git4idea.commands.GitHandler - [master 55550a5] cucmber test  commit
+ 3 files changed, 80 insertions(+)
+ create mode 100644 src/test/scala/pages/AmazonKindleBookPage.scala
+ create mode 100644 src/test/scala/resources/utils/driver/SeleniumBase.scala
+ create mode 100644 src/test/scala/resources/utils/driver/TearDown.scala 
+2014-08-22 04:18:14,976 [10609038]   INFO -  #git4idea.commands.GitHandler - cd C:\Users\subbu\scala-cucumber-webdriver-example 
+2014-08-22 04:18:14,977 [10609039]   INFO -  #git4idea.commands.GitHandler - git add --ignore-errors -- src/test/scala/pages/Page.scala 
+2014-08-22 04:18:15,089 [10609151]   INFO -  #git4idea.commands.GitHandler - warning: LF will be replaced by CRLF in src/test/scala/pages/Page.scala.
+The file will have its original line endings in your working directory. 
+2014-08-22 04:18:23,234 [10617296]   INFO -  #git4idea.commands.GitHandler - cd C:\Users\subbu\scala-cucumber-webdriver-example 
+2014-08-22 04:18:23,234 [10617296]   INFO -  #git4idea.commands.GitHandler - git add --ignore-errors -- src/test/scala/resources/utils/EnvConfiguration.scala 
+2014-08-22 04:18:23,422 [10617484]   INFO -  #git4idea.commands.GitHandler - warning: LF will be replaced by CRLF in src/test/scala/resources/utils/EnvConfiguration.scala.
+The file will have its original line endings in your working directory. 
+2014-08-22 04:18:56,241 [10650303]   INFO -  #git4idea.commands.GitHandler - cd C:\Users\subbu\scala-cucumber-webdriver-example 
+2014-08-22 04:18:56,241 [10650303]   INFO -  #git4idea.commands.GitHandler - git config core.autocrlf 
+2014-08-22 04:18:56,632 [10650694]   INFO -  #git4idea.commands.GitHandler - cd C:\Users\subbu\scala-cucumber-webdriver-example 
+2014-08-22 04:18:56,632 [10650694]   INFO -  #git4idea.commands.GitHandler - git commit --only -F C:\Users\subbu\AppData\Local\Temp\git-commit-msg-2495342586460489501.txt -- src/test/scala/pages/Page.scala src/test/scala/resources/utils/EnvConfiguration.scala 
+2014-08-22 04:18:56,905 [10650967]   INFO -  #git4idea.commands.GitHandler - [master a4b8398] cucmber test  commit
+ 2 files changed, 45 insertions(+)
+ create mode 100644 src/test/scala/pages/Page.scala
+ create mode 100644 src/test/scala/resources/utils/EnvConfiguration.scala 
+2014-08-22 04:19:11,796 [10665858]   INFO -  #git4idea.commands.GitHandler - cd C:\Users\subbu\scala-cucumber-webdriver-example 
+2014-08-22 04:19:11,796 [10665858]   INFO -  #git4idea.commands.GitHandler - git add --ignore-errors -- src/test/resources/features/myFirstFeature.feature 
+2014-08-22 04:19:29,325 [10683387]   INFO -  #git4idea.commands.GitHandler - cd C:\Users\subbu\scala-cucumber-webdriver-example 
+2014-08-22 04:19:29,326 [10683388]   INFO -  #git4idea.commands.GitHandler - git config core.autocrlf 
+2014-08-22 04:19:29,714 [10683776]   INFO -  #git4idea.commands.GitHandler - cd C:\Users\subbu\scala-cucumber-webdriver-example 
+2014-08-22 04:19:29,715 [10683777]   INFO -  #git4idea.commands.GitHandler - git commit --only -F C:\Users\subbu\AppData\Local\Temp\git-commit-msg-8178378666976190901.txt -- src/test/resources/features/myFirstFeature.feature 
+2014-08-22 04:19:29,950 [10684012]   INFO -  #git4idea.commands.GitHandler - [master 7c88c95] cucmber test  commit
+ 1 file changed, 5 insertions(+), 5 deletions(-) 
+2014-08-22 04:30:57,395 [11371457]   INFO - a.repo.GitUntrackedFilesHolder - GitUntrackedFilesHolder: Index has changed, marking file://C:/Users/subbu/scala-cucumber-webdriver-example recursively dirty 
+2014-08-22 04:37:09,909 [11743971]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/runner.layout.xml file is null 
+2014-08-22 04:37:46,903 [11780965]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2014-08-22 04:37:50,331 [11784393]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: /C:/Program Files (x86)/JetBrains/IntelliJ IDEA Community Edition 13.1.4/lib/jps-launcher.jar;C:/Program Files/java/jdk1.7.0_51/lib/tools.jar;/C:/Program Files (x86)/JetBrains/IntelliJ IDEA Community Edition 13.1.4/lib/optimizedFileManager.jar;/C:/Program Files (x86)/JetBrains/IntelliJ IDEA Community Edition 13.1.4/lib/ecj-4.3.2.jar 
+2014-08-22 04:38:14,765 [11808827]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 2; warnings: 0 took 27671 ms: 0 min 27sec 
+2014-08-22 04:50:48,662 [12562724]   INFO - a.repo.GitUntrackedFilesHolder - GitUntrackedFilesHolder: Index has changed, marking file://C:/Users/subbu/scala-cucumber-webdriver-example recursively dirty 
+2014-08-22 04:55:13,510 [12827572]   INFO - a.repo.GitUntrackedFilesHolder - GitUntrackedFilesHolder: Index has changed, marking file://C:/Users/subbu/scala-cucumber-webdriver-example recursively dirty 
+2014-08-22 04:59:55,232 [13109294]   INFO - api.vfs.impl.local.FileWatcher - Change requests:49152, filtered:19424 

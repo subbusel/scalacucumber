@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="ImportPanelConverterProvider" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\subbu\Myf\.idea\compiler.xml" timestamp="1408618982473" />
+    <file path="C:\Users\subbu\Myf\.idea\copyright\profiles_settings.xml" timestamp="1408618973766" />
+    <file path="C:\Users\subbu\Myf\.idea\encodings.xml" timestamp="1408618973823" />
+    <file path="C:\Users\subbu\Myf\.idea\misc.xml" timestamp="1408618973675" />
+    <file path="C:\Users\subbu\Myf\.idea\modules.xml" timestamp="1408618982494" />
+    <file path="C:\Users\subbu\Myf\.idea\modules\myf.iml" timestamp="1408618982344" />
+    <file path="C:\Users\subbu\Myf\.idea\sbt.xml" timestamp="1408618982375" />
+    <file path="C:\Users\subbu\Myf\.idea\scopes\scope_settings.xml" timestamp="1408618973643" />
+    <file path="C:\Users\subbu\Myf\.idea\vcs.xml" timestamp="1408618973704" />
+    <file path="C:\Users\subbu\Myf\.idea\workspace.xml" timestamp="1408620449420" />
+  </project-files>
+</conversion>
+
